@@ -1,2 +1,0 @@
-# infopc
-ha
